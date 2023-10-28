@@ -7,7 +7,7 @@ public class FirstMethods {
 	public static void main(String[] args) {
 		PrintWriter out = new PrintWriter(System.out);
 		
-		printDecorated(out, "20.10.: Aufgabe 1ee");
+		printDecorated(out, "20.10.: Aufgabe 1");
 		
 		value(1);						//Aufruf eventuell hier nicht benötigt, da diese Methode in der Folge-Methode verwendet wird.
 		printValue(out, 1);
