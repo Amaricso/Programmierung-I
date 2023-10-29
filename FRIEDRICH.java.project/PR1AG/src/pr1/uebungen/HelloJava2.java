@@ -1,4 +1,4 @@
-package test;
+package uebungen;
 
 public class HelloJava2 {
 	public static void main(String[] args) {
